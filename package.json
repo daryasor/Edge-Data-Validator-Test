@@ -1,0 +1,9 @@
+{
+  "name": "transcript-data-streamer",
+  "version": "3.0.1",
+  "private": true,
+  "description": "Fetching text and audio chunks from remote storage.",
+  "scripts": {
+    "build": "echo 'Ready to stream'"
+  }
+}
